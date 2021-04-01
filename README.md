@@ -1,6 +1,7 @@
 # pl
 pl additional information.
-Proposal:
+<br>
+Proposal:<br>
   schedule
   table
   challenge
